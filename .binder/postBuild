@@ -1,0 +1,6 @@
+jupyter labextension install \
+    @jupyter-widgets/jupyterlab-manager \
+    plotlywidget \
+    jupyterlab-plotly --no-build \
+    jupyter lab build --minimize=False \
+    jupyter-leaflet ipygany
