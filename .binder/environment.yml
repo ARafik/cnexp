@@ -1,0 +1,44 @@
+name: cnexp
+channels:
+  - conda-forge
+dependencies:
+  - autograd
+  - bokeh
+  - cython
+  - dask
+  - dill
+  - h5py
+  - ipygany
+  - ipyleaflet
+  - ipympl
+  - ipywidgets=7
+  - jupyterlab=3.0.12
+  - jupyter-offlinenotebook
+  - libbezier
+  - matplotlib
+  - mayavi
+  - mpmath
+  - nbresuse
+  - networkx
+  - numba
+  - numpy
+  - nodejs
+  - osmnx
+  - pandas
+  - partd
+  - plotly
+  - psutil
+  - pyqt
+  - python=3.6
+  - qtconsole
+  - seaborn==0.11.1
+  - sympy
+  - xlrd
+  - xlwt
+  - r-base=4.0.3
+  - r-bezier
+  - r-tidyverse
+  - r-reticulate
+  - r-mosaicdata
+  - r-data.table
+  - r-matrixStats
